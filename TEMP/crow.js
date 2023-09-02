@@ -4,7 +4,10 @@ function start() {
 
 ////CONFIG////
 
-var link = "https://youtube.com/embed/M6EdszLzbJc"; // link to app webpage var title = "Crow"; // title shown in navbar var id = "https://XUnlockNetwork-SRLC-CHANNEL/WikiRepo/TEMP/crow.js"; // set this to the url location of your script
+var link = "https://youtube.com/embed/M6EdszLzbJc";
+  // link to app webpage 
+  var title = "Crow"; // title shown in navbar 
+  var id = "https://xunlocknetwork-srlc-channel.github.io/WIKI-FILES/TEMP/crow.js"; // set this to the url location of your script
 
 ////SCRIPT////
 
